@@ -193,7 +193,7 @@ img{
 	opacity: 0.8;
 	text-align: center;
 	width: 180px;
-	background-color: #583ECC;
+	background-color: #FF6F59;
 	-webkit-transition: all 0.5s ease 0s;;
 	-o-transition: all 0.5s ease 0s;;
 	transition: all 0.5s ease 0s;;
@@ -210,8 +210,6 @@ img{
 
 
 .header-bottom-right{
-	/* display: inline;
-	float: left; */
 	height: 70vh;
 }
 
