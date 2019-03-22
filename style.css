@@ -346,6 +346,12 @@ img{
 	position: absolute;
 	top: 60px;
 	width: 150px;
+	background-color: #5C9EAD;
+}
+
+
+.title-area .title span {
+	color: #5C9EAD;
 }
 
 
@@ -611,6 +617,11 @@ img{
   height: 4px;  
   padding: 5px;
   width: 20px;
+}
+
+
+.screenshots-slide .slick-dots li button:hover {
+	background-color: #583ECC;
 }
 
 
