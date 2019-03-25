@@ -193,7 +193,7 @@ img{
 	opacity: 0.8;
 	text-align: center;
 	width: 180px;
-	background-color: #FF6F59;
+	background-color: #B8B8F3;
 	-webkit-transition: all 0.5s ease 0s;;
 	-o-transition: all 0.5s ease 0s;;
 	transition: all 0.5s ease 0s;;
@@ -234,7 +234,7 @@ img{
 
 
 #menu-btn {
-  color: #FF6F59;
+  color: #B8B8F3;
   font-size: 30px;
   position: fixed;
   right: 75px;
@@ -276,6 +276,7 @@ img{
 .main-nav a:hover,
 .main-nav a:focus {
 	background: #182029;
+	color: #B8B8F3;
 }
 
 
@@ -398,7 +399,7 @@ img{
 
 
 .features-list li i{
-	background-color: #FF6F59;	
+	background-color: #B8B8F3;	
 	border-radius: 50%;
 	color: #fff;
 	display: block;
@@ -1032,11 +1033,12 @@ img{
 section .section-title {
 	text-align: center;
 	color: #007b5e;
-	margin-bottom: 50px;
+	/* margin-bottom: 50px; */
 	text-transform: uppercase;
 }
 #footer {
 	background: #007b5e !important;
+	height: 600px;
 }
 
 
